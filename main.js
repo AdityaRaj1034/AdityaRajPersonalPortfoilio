@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'bottom' });
 
 /*======= ======== typed js ========= ===*/
 const typed = new Typed('.multiple-text', {
-    strings: ["I'm a React Developer/SharePoint Developer","I'm a C++/Python Coder"," I'm currently working as React Developer, Evigur Solutions PVt. Ltd."],
+    strings: ["I'm a React Developer/SharePoint Developer","I'm a C++/Python Coder"," I'm currently working as React Developer, Evigur Solutions Pvt. Ltd."],
     typeSpeed: 40,
     backSpeed: 10,
     backDelay: 1000,
